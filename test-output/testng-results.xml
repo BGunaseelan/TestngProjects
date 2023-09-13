@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-13T13:41:35 IST" name="Default suite" finished-at="2023-09-13T13:42:59 IST" duration-ms="83900">
+    <groups>
+      <group name="Sanity">
+        <method signature="TestngFacebook.userLogin()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" name="userLogin" class="org.testngfacebook.TestngFacebook"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2023-09-13T13:41:35 IST" name="Default test" finished-at="2023-09-13T13:42:59 IST" duration-ms="83900">
+      <class name="org.testngfacebook.TestngFacebook">
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:41:35 IST" name="initialSetup" finished-at="2023-09-13T13:41:52 IST" duration-ms="17406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:41:52 IST" name="login" finished-at="2023-09-13T13:42:15 IST" duration-ms="22506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="userLogin()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:15 IST" name="userLogin" finished-at="2023-09-13T13:42:15 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:15 IST" name="afterTestCase" finished-at="2023-09-13T13:42:18 IST" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:18 IST" name="login" finished-at="2023-09-13T13:42:22 IST" duration-ms="4089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="userLogin()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:22 IST" name="userLogin" finished-at="2023-09-13T13:42:27 IST" duration-ms="4711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:27 IST" name="afterTestCase" finished-at="2023-09-13T13:42:30 IST" duration-ms="3195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:30 IST" name="login" finished-at="2023-09-13T13:42:34 IST" duration-ms="4019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="userLogin()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:34 IST" name="userLogin" finished-at="2023-09-13T13:42:47 IST" duration-ms="12820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:47 IST" name="afterTestCase" finished-at="2023-09-13T13:42:51 IST" duration-ms="3413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="tearDownOperation()[pri:0, instance:org.testngfacebook.TestngFacebook@6404f418]" started-at="2023-09-13T13:42:51 IST" name="tearDownOperation" finished-at="2023-09-13T13:42:59 IST" duration-ms="8090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownOperation -->
+      </class> <!-- org.testngfacebook.TestngFacebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
